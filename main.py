@@ -48,11 +48,7 @@ class fig1(tk.Frame):
    
         label = tk.Label(self, text="Welcome !", font=('arial',29,'bold'))
         label.pack(pady=10,padx=10)
-        label1 = tk.Label(self, text="Re-create is an application software with a vision to provide and help the \
-        \n people from rural and  remote areas of Nepal with a right path they want \
-         \n to follow , particularly in education . Formal or Informal , we help those \
-                  \n people in need to persue the right path they will to follow . \
-        \n \n \n \n We try making the rural lives easier and this is what our sole aim is.", font=('arial',14),justify=CENTER)
+        label1 = tk.Label(self, text="Re-create is an application software", font=('arial',14),justify=CENTER)
         label1.pack(pady=20,padx=20)
         label2 = tk.Label(self, text="Click the button below to begin..", font=('arial',12),justify=CENTER).pack()
         button1=ttk.Button(self,text="BEGIN" ,
@@ -207,7 +203,7 @@ class fig6(tk.Frame):
       
          
      def check_print(self):
-        if(self.entry1.get()=="bishnu" and self.entry2.get()=="password"):
+        if(self.entry1.get()=="bish" and self.entry2.get()=="password"):
              app.show_frame(fig7) 
         else:
             tm.showerror("Login error","Incorrect username or password")
