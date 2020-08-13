@@ -4,16 +4,16 @@ From Institute/Org. :
 ACEM: 	|| To :Pia	 || Reply : come visit us 
  
 From Student: 
-  Name :bishnu || To: acem 	 || Query:how can i join?  
+  Name :bish || To: acem 	 || Query:how can i join?  
 
 From Student: 
-  Name :bishnu || To: ACEm 	 || Query:oi sdfsdfsd f?
+  Name :bish || To: ACEm 	 || Query:oi sdfsdfsd f?
 From Institute/Org. : 
-acem: 	|| To :bishnu	 || Reply : oshdasoc
+acem: 	|| To :bish	 || Reply : oshdasoc
 From Student: 
   Name :ron || To: hogwarts 	 || Query:where's the train ?
 From Student: 
-  Name :bishnu || To: acem 	 || Query:print it 
+  Name :bish || To: acem 	 || Query:print it 
 From Institute/Org. : 
 acem: 	|| To :ron	 || Reply : its all magic , ron ! :)
 From Student: 
